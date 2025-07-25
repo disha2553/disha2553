@@ -74,7 +74,7 @@ Water conservation awareness platform with **IBM Watson Assistant**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=disha2553&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=disha2553&layout=compact&theme=radical)   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/disha2553?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/disha2553/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/disha2553?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Disha_Joshi/)
 
 </div>
 
@@ -85,7 +85,7 @@ Water conservation awareness platform with **IBM Watson Assistant**
 - 📧 **Email:** dishajoshi2553@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/disha-joshi-8a3358284](https://www.linkedin.com/in/disha-joshi-8a3358284)  
 - 💻 **GitHub:** [github.com/disha2553](https://github.com/disha2553)  
-- 🧠 **LeetCode:** [leetcode.com/disha2553](https://leetcode.com/u/Disha_Joshi/)
+- 🧠 **LeetCode:** [leetcode.com/u/Disha_Joshi/](https://leetcode.com/u/Disha_Joshi/)
 
 ---
 
