@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha Joshi</h1>
-<h3 align="center">CSE (AI & ML) Graduate | Full-Stack Developer | AI Explorer | Problem Solver</h3>
+<h3 align="center">CSE (AI & ML) Graduate | Developer | AI Explorer | Problem Solver | Quick Learner </h3>
 
 ---
 
