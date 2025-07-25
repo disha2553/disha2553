@@ -11,14 +11,6 @@ I enjoy building  web applications, exploring artificial intelligence, and creat
 
 ---
 
-### 🎓 Education
-
-- **B.E. in CSE (AI & ML)** – Finolex Academy, Ratnagiri | *CGPA: 9.75*  
-- **HSC (Science)** – Abhyankar Kulkarni Jr. College | *97.8%*  
-- **SSC** – R. B. Shirke High School | *97.4%*
-
----
-
 ### 🛠️ Tech Stack
 
 #### Languages:
